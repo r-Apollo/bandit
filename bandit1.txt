@@ -1,0 +1,4 @@
+1. Connect to ssh bandit1@bandit.labs.overthewire.org -p 2220.
+2. Using ls to see whats in the folder.
+3. Open "-" file with cat ./-
+4. Flag: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9

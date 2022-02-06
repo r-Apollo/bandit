@@ -1,0 +1,3 @@
+1. Connect to ssh bandit2@bandit.labs.overthewire.org -p 2220.
+2. cat spaces\ in\ this\ filename
+3. Flag: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK

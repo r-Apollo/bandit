@@ -1,0 +1,4 @@
+1. Connect to the server using ssh. <ssh bandit0@bandit.labs.overthewire.org -p 2220>
+2. Using the ls command to see whats in the folder.
+3. Using the cat command to open the <readme> file.
+4. Flag: boJ9jbbUNNfktd78OOpsqOltutMc3MY1

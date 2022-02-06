@@ -1,0 +1,19 @@
+1.  ssh bandit12@bandit.labs.overthewire.org -p 2220
+2.  mkdir /tmp/rene
+3.  cp data.txt /tmp/rene
+4.  cd /tmp/rene
+5.  xxd -r data.txt > something
+6.  file something
+7.  mv something something.gz
+8.  gunzip something.gz
+9.  bzip2 -d something
+10. mv something.out something.gz
+11. gzip -d something.gz
+12. tar xf something
+13. tar xf data5.bin
+14. file data6.bin
+15. bzip2 -d data6.bin
+16. tar xf data6.bin.out
+17. mv data8.bin data8.gz
+18. cat data8
+19. The password is 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL

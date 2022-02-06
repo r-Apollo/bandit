@@ -1,0 +1,2 @@
+1. ssh bandit13@bandit.labs.overthewire.org -p 2220
+2. ssh -i sshkey.private bandit14@localhost

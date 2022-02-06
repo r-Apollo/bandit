@@ -1,0 +1,6 @@
+1. ssh bandit6@bandit.labs.overthewire.org -p 2220
+2. going into root directory
+3. find ./ -size 33c -user bandit7
+4. find / -type f -size 33c -user bandit7 -group bandit6
+5. cat /var/lib/dpkg/info/bandit7.password
+6. Flag: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs

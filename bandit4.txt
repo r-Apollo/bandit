@@ -1,0 +1,7 @@
+1. ssh bandit4@bandit.labs.overthewire.org -p 2220
+2. cd inhere
+3. find . type -f | returned us all files.
+4. Mithilfe von xArgs lässt sich ein Kommand auf alle zurückgegebenen files ausführen.
+5. find . -type f | xargs file  -> Gibt uns alle Datentypen der Files im Ordner als Rückgabe.
+6. Da nur -file07 ASCII text enthält -> cat ./-file07
+7. Flag: koReBOKuIDDepwhWk7jZC0RTdopnAYKh

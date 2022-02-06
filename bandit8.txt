@@ -1,0 +1,3 @@
+1. ssh bandit8@bandit.labs.overthewire.org -p 2220
+2. sort data.txt | uniq -u
+3. Flag: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
