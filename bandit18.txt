@@ -1,0 +1,4 @@
+1. diff passwords.new passwords.old
+< kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
+> w0Yfolrc5bwjS4qw5mq1nnQi6mF03bii
+

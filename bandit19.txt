@@ -1,0 +1,5 @@
+1. ssh bandit18@bandit.labs.overthewire.org -p 2220
+2. ssh bandit18@bandit.labs.overthewire.org -p 2220 -T
+3. ls 
+4. cat readme
+5. IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
