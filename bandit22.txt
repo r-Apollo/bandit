@@ -1,0 +1,6 @@
+1. ssh bandit21@bandit.labs.overthewire.org -p 2220
+2. cat cronjob_bandit22
+3. cd /usr/bin/
+4. cat cronjob_bandit22.sh
+5. cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+6. Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI

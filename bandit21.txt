@@ -1,0 +1,5 @@
+1. ssh bandit20@bandit.labs.overthewire.org -p 2220
+2. nc -lvp 8888
+3. ./suconnect 8888 
+4. GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+5. gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
